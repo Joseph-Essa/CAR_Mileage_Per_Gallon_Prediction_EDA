@@ -14,7 +14,6 @@ The dataset contains the following key features:
 - **model year**: Year of the car model.
 - **origin**: Country of origin (1: USA, 2: Europe, 3: Asia).
 
-The dataset is already cleaned and formatted for analysis.
 
 ## Exploratory Data Analysis
 Several techniques were applied to uncover patterns and relationships in the data:
