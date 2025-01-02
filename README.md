@@ -12,7 +12,7 @@ The dataset contains the following key features:
 - **weight**: Weight of the car (in pounds).
 - **acceleration**: Time to accelerate from 0 to 60 mph (in seconds).
 - **model year**: Year of the car model.
-- **origin**: Country of origin (1: USA, 2: Europe, 3: Japan).
+- **origin**: Country of origin (1: USA, 2: Europe, 3: Asia).
 
 The dataset is already cleaned and formatted for analysis.
 
@@ -59,7 +59,3 @@ To reproduce the analysis:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-For any questions or suggestions, feel free to create an issue or contact the repository maintainer.
-
